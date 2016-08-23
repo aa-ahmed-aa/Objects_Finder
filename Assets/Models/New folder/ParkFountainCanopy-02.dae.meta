@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 9bfecde6f85f88541b9af107662e5e44
+timeCreated: 1471920547
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Canopy-02
+    100002: frmcl_1
+    100004: ID105
+    100006: ID111
+    100008: ID119
+    100010: ID132
+    100012: ID140
+    100014: ID153
+    100016: ID16
+    100018: ID161
+    100020: ID169
+    100022: ID177
+    100024: ID183
+    100026: ID189
+    100028: ID195
+    100030: ID203
+    100032: ID211
+    100034: ID219
+    100036: ID227
+    100038: ID235
+    100040: ID243
+    100042: ID256
+    100044: ID264
+    100046: ID270
+    100048: ID278
+    100050: ID286
+    100052: ID29
+    100054: ID294
+    100056: ID302
+    100058: ID310
+    100060: ID323
+    100062: ID331
+    100064: ID339
+    100066: ID347
+    100068: ID37
+    100070: ID52
+    100072: ID6
+    100074: ID60
+    100076: ID66
+    100078: ID70
+    100080: ID74
+    100082: ID78
+    100084: ID82
+    100086: ID86
+    100088: ID90
+    100090: //RootNode
+    100092: PlazaFountainCanopy02
+    100094: Spline
+    100096: Spline 1
+    100098: Spline 10
+    100100: Spline 100
+    100102: Spline 101
+    100104: Spline 102
+    100106: Spline 103
+    100108: Spline 104
+    100110: Spline 105
+    100112: Spline 106
+    100114: Spline 107
+    100116: Spline 108
+    100118: Spline 109
+    100120: Spline 11
+    100122: Spline 110
+    100124: Spline 111
+    100126: Spline 112
+    100128: Spline 113
+    100130: Spline 114
+    100132: Spline 115
+    100134: Spline 116
+    100136: Spline 117
+    100138: Spline 118
+    100140: Spline 119
+    100142: Spline 12
+    100144: Spline 120
+    100146: Spline 121
+    100148: Spline 122
+    100150: Spline 123
+    100152: Spline 124
+    100154: Spline 125
+    100156: Spline 126
+    100158: Spline 127
+    100160: Spline 128
+    100162: Spline 129
+    100164: Spline 13
+    100166: Spline 130
+    100168: Spline 131
+    100170: Spline 132
+    100172: Spline 133
+    100174: Spline 134
+    100176: Spline 135
+    100178: Spline 136
+    100180: Spline 137
+    100182: Spline 138
+    100184: Spline 139
+    100186: Spline 14
+    100188: Spline 140
+    100190: Spline 141
+    100192: Spline 142
+    100194: Spline 143
+    100196: Spline 15
+    100198: Spline 16
+    100200: Spline 17
+    100202: Spline 18
+    100204: Spline 19
+    100206: Spline 2
+    100208: Spline 20
+    100210: Spline 21
+    100212: Spline 22
+    100214: Spline 23
+    100216: Spline 24
+    100218: Spline 25
+    100220: Spline 26
+    100222: Spline 27
+    100224: Spline 28
+    100226: Spline 29
+    100228: Spline 3
+    100230: Spline 30
+    100232: Spline 31
+    100234: Spline 32
+    100236: Spline 33
+    100238: Spline 34
+    100240: Spline 35
+    100242: Spline 36
+    100244: Spline 37
+    100246: Spline 38
+    100248: Spline 39
+    100250: Spline 4
+    100252: Spline 40
+    100254: Spline 41
+    100256: Spline 42
+    100258: Spline 43
+    100260: Spline 44
+    100262: Spline 45
+    100264: Spline 46
+    100266: Spline 47
+    100268: Spline 48
+    100270: Spline 49
+    100272: Spline 5
+    100274: Spline 50
+    100276: Spline 51
+    100278: Spline 52
+    100280: Spline 53
+    100282: Spline 54
+    100284: Spline 55
+    100286: Spline 56
+    100288: Spline 57
+    100290: Spline 58
+    100292: Spline 59
+    100294: Spline 6
+    100296: Spline 60
+    100298: Spline 61
+    100300: Spline 62
+    100302: Spline 63
+    100304: Spline 64
+    100306: Spline 65
+    100308: Spline 66
+    100310: Spline 67
+    100312: Spline 68
+    100314: Spline 69
+    100316: Spline 7
+    100318: Spline 70
+    100320: Spline 71
+    100322: Spline 72
+    100324: Spline 73
+    100326: Spline 74
+    100328: Spline 75
+    100330: Spline 76
+    100332: Spline 77
+    100334: Spline 78
+    100336: Spline 79
+    100338: Spline 8
+    100340: Spline 80
+    100342: Spline 81
+    100344: Spline 82
+    100346: Spline 83
+    100348: Spline 84
+    100350: Spline 85
+    100352: Spline 86
+    100354: Spline 87
+    100356: Spline 88
+    100358: Spline 89
+    100360: Spline 9
+    100362: Spline 90
+    100364: Spline 91
+    100366: Spline 92
+    100368: Spline 93
+    100370: Spline 94
+    100372: Spline 95
+    100374: Spline 96
+    100376: Spline 97
+    100378: Spline 98
+    100380: Spline 99
+    400000: Canopy-02
+    400002: frmcl_1
+    400004: ID105
+    400006: ID111
+    400008: ID119
+    400010: ID132
+    400012: ID140
+    400014: ID153
+    400016: ID16
+    400018: ID161
+    400020: ID169
+    400022: ID177
+    400024: ID183
+    400026: ID189
+    400028: ID195
+    400030: ID203
+    400032: ID211
+    400034: ID219
+    400036: ID227
+    400038: ID235
+    400040: ID243
+    400042: ID256
+    400044: ID264
+    400046: ID270
+    400048: ID278
+    400050: ID286
+    400052: ID29
+    400054: ID294
+    400056: ID302
+    400058: ID310
+    400060: ID323
+    400062: ID331
+    400064: ID339
+    400066: ID347
+    400068: ID37
+    400070: ID52
+    400072: ID6
+    400074: ID60
+    400076: ID66
+    400078: ID70
+    400080: ID74
+    400082: ID78
+    400084: ID82
+    400086: ID86
+    400088: ID90
+    400090: //RootNode
+    400092: PlazaFountainCanopy02
+    400094: Spline
+    400096: Spline 1
+    400098: Spline 10
+    400100: Spline 100
+    400102: Spline 101
+    400104: Spline 102
+    400106: Spline 103
+    400108: Spline 104
+    400110: Spline 105
+    400112: Spline 106
+    400114: Spline 107
+    400116: Spline 108
+    400118: Spline 109
+    400120: Spline 11
+    400122: Spline 110
+    400124: Spline 111
+    400126: Spline 112
+    400128: Spline 113
+    400130: Spline 114
+    400132: Spline 115
+    400134: Spline 116
+    400136: Spline 117
+    400138: Spline 118
+    400140: Spline 119
+    400142: Spline 12
+    400144: Spline 120
+    400146: Spline 121
+    400148: Spline 122
+    400150: Spline 123
+    400152: Spline 124
+    400154: Spline 125
+    400156: Spline 126
+    400158: Spline 127
+    400160: Spline 128
+    400162: Spline 129
+    400164: Spline 13
+    400166: Spline 130
+    400168: Spline 131
+    400170: Spline 132
+    400172: Spline 133
+    400174: Spline 134
+    400176: Spline 135
+    400178: Spline 136
+    400180: Spline 137
+    400182: Spline 138
+    400184: Spline 139
+    400186: Spline 14
+    400188: Spline 140
+    400190: Spline 141
+    400192: Spline 142
+    400194: Spline 143
+    400196: Spline 15
+    400198: Spline 16
+    400200: Spline 17
+    400202: Spline 18
+    400204: Spline 19
+    400206: Spline 2
+    400208: Spline 20
+    400210: Spline 21
+    400212: Spline 22
+    400214: Spline 23
+    400216: Spline 24
+    400218: Spline 25
+    400220: Spline 26
+    400222: Spline 27
+    400224: Spline 28
+    400226: Spline 29
+    400228: Spline 3
+    400230: Spline 30
+    400232: Spline 31
+    400234: Spline 32
+    400236: Spline 33
+    400238: Spline 34
+    400240: Spline 35
+    400242: Spline 36
+    400244: Spline 37
+    400246: Spline 38
+    400248: Spline 39
+    400250: Spline 4
+    400252: Spline 40
+    400254: Spline 41
+    400256: Spline 42
+    400258: Spline 43
+    400260: Spline 44
+    400262: Spline 45
+    400264: Spline 46
+    400266: Spline 47
+    400268: Spline 48
+    400270: Spline 49
+    400272: Spline 5
+    400274: Spline 50
+    400276: Spline 51
+    400278: Spline 52
+    400280: Spline 53
+    400282: Spline 54
+    400284: Spline 55
+    400286: Spline 56
+    400288: Spline 57
+    400290: Spline 58
+    400292: Spline 59
+    400294: Spline 6
+    400296: Spline 60
+    400298: Spline 61
+    400300: Spline 62
+    400302: Spline 63
+    400304: Spline 64
+    400306: Spline 65
+    400308: Spline 66
+    400310: Spline 67
+    400312: Spline 68
+    400314: Spline 69
+    400316: Spline 7
+    400318: Spline 70
+    400320: Spline 71
+    400322: Spline 72
+    400324: Spline 73
+    400326: Spline 74
+    400328: Spline 75
+    400330: Spline 76
+    400332: Spline 77
+    400334: Spline 78
+    400336: Spline 79
+    400338: Spline 8
+    400340: Spline 80
+    400342: Spline 81
+    400344: Spline 82
+    400346: Spline 83
+    400348: Spline 84
+    400350: Spline 85
+    400352: Spline 86
+    400354: Spline 87
+    400356: Spline 88
+    400358: Spline 89
+    400360: Spline 9
+    400362: Spline 90
+    400364: Spline 91
+    400366: Spline 92
+    400368: Spline 93
+    400370: Spline 94
+    400372: Spline 95
+    400374: Spline 96
+    400376: Spline 97
+    400378: Spline 98
+    400380: Spline 99
+    2300000: ID105
+    2300002: ID111
+    2300004: ID119
+    2300006: ID132
+    2300008: ID140
+    2300010: ID153
+    2300012: ID16
+    2300014: ID161
+    2300016: ID169
+    2300018: ID177
+    2300020: ID183
+    2300022: ID189
+    2300024: ID195
+    2300026: ID203
+    2300028: ID211
+    2300030: ID219
+    2300032: ID227
+    2300034: ID235
+    2300036: ID243
+    2300038: ID256
+    2300040: ID264
+    2300042: ID270
+    2300044: ID278
+    2300046: ID286
+    2300048: ID29
+    2300050: ID294
+    2300052: ID302
+    2300054: ID310
+    2300056: ID323
+    2300058: ID331
+    2300060: ID339
+    2300062: ID347
+    2300064: ID37
+    2300066: ID52
+    2300068: ID6
+    2300070: ID90
+    3300000: ID105
+    3300002: ID111
+    3300004: ID119
+    3300006: ID132
+    3300008: ID140
+    3300010: ID153
+    3300012: ID16
+    3300014: ID161
+    3300016: ID169
+    3300018: ID177
+    3300020: ID183
+    3300022: ID189
+    3300024: ID195
+    3300026: ID203
+    3300028: ID211
+    3300030: ID219
+    3300032: ID227
+    3300034: ID235
+    3300036: ID243
+    3300038: ID256
+    3300040: ID264
+    3300042: ID270
+    3300044: ID278
+    3300046: ID286
+    3300048: ID29
+    3300050: ID294
+    3300052: ID302
+    3300054: ID310
+    3300056: ID323
+    3300058: ID331
+    3300060: ID339
+    3300062: ID347
+    3300064: ID37
+    3300066: ID52
+    3300068: ID6
+    3300070: ID90
+    4300000: ID52
+    4300002: ID37
+    4300004: ID29
+    4300006: ID16
+    4300008: ID6
+    4300010: ID347
+    4300012: ID339
+    4300014: ID331
+    4300016: ID323
+    4300018: ID310
+    4300020: ID302
+    4300022: ID294
+    4300024: ID286
+    4300026: ID278
+    4300028: ID270
+    4300030: ID264
+    4300032: ID256
+    4300034: ID243
+    4300036: ID235
+    4300038: ID227
+    4300040: ID219
+    4300042: ID211
+    4300044: ID203
+    4300046: ID195
+    4300048: ID189
+    4300050: ID183
+    4300052: ID177
+    4300054: ID169
+    4300056: ID161
+    4300058: ID153
+    4300060: ID140
+    4300062: ID132
+    4300064: ID119
+    4300066: ID111
+    4300068: ID105
+    4300070: ID90
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
