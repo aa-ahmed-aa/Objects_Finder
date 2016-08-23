@@ -5,4 +5,4 @@ First Person Game find the object to pass Level 1
 - Blender 2.77
 <br>
 #Screen Shot
-![Scene](/Untitled.png) <br>
+![Alt text](https://github.com/aa-ahmed-aa/Objects_Finder/blob/master/Untitled.jpg "Optional title")
